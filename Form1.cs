@@ -31,7 +31,7 @@ namespace WinFormsApp1_Imaget
             image.Dispose();
         }
 
-        // ´ú¸Õmethod¡C 
+        // ´ú¸Õmethod
         public static void ConvertImageToBinary()
         {
             Debug.WriteLine("=== Convert the image file to the binary object. ===");
